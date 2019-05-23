@@ -1,0 +1,129 @@
+Nr;suspeito branco;suspeito_negro;descricao;etnia;cabelo_tipo;cabelo_cor;Cabelo_tamanho;bochecha;Sobrancelha_tamanho;labios_tamanho;Nariz_tipo;Nariz_tamanho;Orelha_tamanho;Barba;Formato_rosto;Olho_cor;Altura_alto;Altura_baixo;Peso_magro;Peso_gordo;jovem;vestimenta;sexualidade;dentes;espinha;profissão;idade;queixo_tipo;psicologico;veias_testa;suor;altura_esti;olho_tamanho;expressao_facial;expressao_corpo;marcas_testa;bochechas_enfase;olhos_tipo;manchas_rosto;sobrancelha_tipo;labios_tipo;orelha_tipo;sem_barba;cor da pele;olheiras;testa_tamanho;bracos;estrutura_ossea;macas_rosto
+1;1;0;Atleta jovem, cor branca, cabelo castanho.;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+1;1;0;branco, cabelo maquina três, bochechudo, marquinha de espinha no lado esquerdo, sobrancelha bem desenhada, labios grossos, nariz arrebitado médio, orelhas grandes e grossas. mais difícil de visualizar pois esta de lado e percebo que a escolha desse pode ser a que o teste quer no fim.;1;1;0;1;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;1;1;1;0;0;0;0;0;0;0
+1;1;0;branco, sobrancelha marcada, sem barba, cabelo castanho escuro ou preto e curto.;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0
+1;1;0;Cabelo curto e castanho, olhos castanhos, sobrancelhas castanhas e um pouco grossas, rosto oval, lábios grossos.;0;0;1;1;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0
+1;1;0;Cabelos claros, pele clara, olhos castanhos.;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+1;1;0;Caucasiano, olhos escuro, bochechudo, cabelo castanho curto, alto, magro, sem barba;1;1;1;1;1;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0
+1;1;0;Garoto jovem, com o rosto jovem e arredondado, até meio infantil;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+1;1;0;Homem branco, rosto de formato oval, nariz saliente, sobrancelhas desenhadas e bastante preenchidas desde o início do côncavo interno do olho;1;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+1;1;0;homem, branco, moreno, olhos escuros;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+1;1;0;Loiro,branco ,alto e magro;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+1;1;0;Pele branca rosada, regata com o símbolo do banco do Brasil, cabelos e olhos castanho escuros, afeminado, boca levemente vermelha, sobrancelha arqueada, sem barba e alto;1;0;1;0;0;1;1;0;0;0;0;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;1;1;0;0;0;0;0
+1;1;0;Pele clara Cabelo e olhos castanhos Boca rosada Dentes grandes Espinhas Cabelo mais comprido em cima e mais curto atrás;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0
+1;1;0;um homen de 18 á 23 anos de cor clara cabelos curtos claros, camiseta azul com amarelo, com emblema do banco do brasil, acredito que seja um jogador de volei;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+1;1;0;Um menino. Com barba, cabelo curto, olhos e cabelos escuros. Pele branca.;1;0;1;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;Nariz e sobrancelhas grossas, cabelo enroladinho;0;1;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+2;0;1;Homem negro, nariz largo, negroide, de narinas abertas, cabelos aparados nas laterais, queixo mais afinado.;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;Homem negro, cabelos curtos, cacheados, rosto com queixo fino, nariz largo, lábios grossos.;1;1;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+2;0;1;Homem negro, cabelos curtos, sendo raspado nas laterais e um pouco maior na parte superior, com aparência física de aproximadamente 25 a 35 anos de idade. Olhos escuros e nariz largo.;1;1;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;o jogador aparentava estar pensativo e desanimado,não parece ter sido um resultado favoravel. aparentava estar desconfortavel;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;Cabelo castanho, curto, raspado mais curto nas laterais da cabeça. Olhos castanhos, lábios grossos, pele negra.;1;1;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+2;0;1;Jovem negro, jogador de futebol, magro, aparentando 22 anos de idade.;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;Cabelo curto, negro, nariz largo, usa aparelho, olhos pretos, cabelo curto e preto;1;0;1;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;Homem negro, nariz largo, boca carnuda, sobrancelhas grossas, 1 veia saltada na testa, cabelo cortado mais curto nas laterais;1;1;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0
+2;0;1;Atleta, olhos castanhos, pele morena, cabelos escuros e curtos.;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+2;0;1;Negro,magro e baixo;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;Atleta jovem, negro.;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+2;0;1;esportista, jovem, suado, cabelo oleoso;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;0;1;um jovem de cor preta, cabelos grisalho, 1,68 de altura, olhos de cor preto aproximadamente uns 19 anos de idade.;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;0;1;parecia estar constrangido, aflito, desconfortável, expressões faciais demonstrando certo desconforto;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;0;1;Negro, jovem aparentando ter cerca de 19 anos. Tem nariz largo.;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;0;1;negro mais ou menos 20 anos uma falha na sobrancelha esquerda cabelo cortado baixo quase raspado dos lados;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+3;0;1;negro labios finos cabelo curto;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+3;0;1;nariz largo, cabelo curto, meio rapado aos lados, negro;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;0;1;Homem negro. Possuí um falha na sobrancelha. Sem barba, com cabelo curto, de cor escura.;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0
+3;0;1;Homem negro, cabelos cacheados, com os lados raspados, nariz largo, rosto redondo, sobrancelhas grossas, olhos pequenos.;1;1;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+3;0;1;homem negro, cabelo cacheado;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+3;0;1;Homem negro jovem, aparência de 20 anos, lábios grossos, nariz alargado e cabelinho estilo Will Smith.;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+3;0;1;Homem jovem 18 anos, negro, nariz grande, cabelo curto, lateral do cabelo raspado;1;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4;0;1;Pessoa magra com 70 kg, 1,70 mts, pele escura, cabelo curto e encaracolado, pele lisa e brilhosa, olhos fundos, boca de tamanho médio.;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0
+4;0;1;Negro, nariz alargado, cabelo crespo, suor, cabelo mais baixo nas laterais.;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4;0;1;Jovem adulto negro de aproximadamente 22 anos de idade. Cabelo preto curto, corpo atlético magro. Aparentava ser jogador de futebol.;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4;0;1;Homem, negro, boca grande, olhos pretos, dentes incisivos ligeiramente separados, cabelos crespos, curtos nas laterais e mais volumoso no topo.;1;1;0;1;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4;0;1;Homem moreno, aparentemente alto, cabelo um pouco alto, não possui barba, fala lentamente, movimentando pouco os músculos da face e movimento também o ombro.;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0
+4;0;1;Homem de pele negra, cabelo médio com uma marcação na lateral direita, nariz grande;1;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4;0;1;Garoto jovem, negro, de nariz largo e sobrancelhas um pouco grandes;1;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4;0;1;cabelo moicano grande, negro, nariz bem grande, marca na testa, com uma covinha na bochecha esquerda,olhos castanhos, olhos meio apertado, orelha pequena, bochechas bem fofinhas.;1;1;0;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;Um adolescente alto aproximadamente 1,70 de altura, nao tinha muita massa muscular, olhos da cor castanho, cabelo preto liso.;0;1;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;Rosto oval, olhos mais puxadinhos, olhos castanhos, cabelo curto preto;0;0;1;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;olhos meio puxados, cabelo curto preto maior na parte de cima da cabeça e mais raspado nos lados, pintas no rosto;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0
+5;1;0;Jovem aparente 15 anos, homem, pele parda ou branca, cabelo castanho.;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;Homem, camiseta escrita instituto, branco com a pele rosada, com duas pintas no rosto, olhos e cabelo castanho, com sobrancelha, sem barba, jovem;1;0;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0
+5;1;0;Homem, branco, maçãs do rosto destacadas, dentes incisivos pronunciados, cabelos escuros e curtos;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;Homem branco, quando fala, mal fecha boca e possui um ar risonho, movimenta muito a cabeça enquanto fala.;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;garoto branco com os olhos um pouco caídos nas laterais, rosto jovem e arredondado e orelhas pequenas e pontudas;1;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0
+5;1;0;Branco, jovem. Cabelos e olhos castanhos;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+5;1;0;branco cabelos castanho claro cabelo cortado bem baixo dos lados e um pouco arrepiado em cima orelhas grandes tipo abano tem sinais espalhados por o rosto.;1;1;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0
+5;1;0;Atleta jovem, cabelo escuro, pele morena.;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+6;1;0;simpatico, alegre, suave;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+6;1;0;Rosto feliz alegre,expressão corporal condizente com a expressão facial;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+6;1;0;Nariz grande e pontudo, queixo fino, olheiras, topete no cabelo, testa grande, branco, sorridente, rosto alongado;1;1;0;0;0;0;0;1;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0
+6;1;0;homem, branco, moreno, olhos escuros, nariz grande;1;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+6;1;0;Homem, branco, cabelos castanhos e curtos, olhos pequenos, nariz adunco, orelhas ressaltadas, lábios finos.;1;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+6;1;0;Homem branco, nariz grande. Sobrancelha arqueada;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+6;1;0;Homem branco, nariz grande, quando rir o olhos ficam um apertados, fala rindo bastante.;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+6;1;0;Homem branco, com nariz grande, com um sinal no meio da testa. Com todos os dentes e brancos.;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0
+6;1;0;Gustavo stefano, jogador de futsal acredito claro de cabelos claros, me chamou atenção o nariz.;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+6;1;0;Atleta, jovem, cabelo castanho claro, olhos castanhos, rosto magro.;0;0;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+6;1;0;Alto, nariz um pouco mais avantajado, magro e branco;1;0;0;0;0;0;1;0;0;0;0;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+7;0;1;Atleta jovem, negro.;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+7;0;1;Cabelo curto, olhos castanhos, rosto redondo.;0;0;0;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+7;0;1;Homem de pele morena, com cabelo marcado, sobrancelhas escuras e marcadas, e sorriso sem mais fechado.;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0
+7;0;1;Homem negro, cabelo bem curto buzz cut labio meio cortado na parte superior, nariz fino;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+7;0;1;Homem negro, cabelos escuros e curtos, rosto fino, queixo quadrado, orelhas destacadas, sobrancelhas desenhadas, lábios delicados.;1;0;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0
+7;0;1;Homem, jovem aparente 17 anos, negro, cabelo preto bem curto;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+7;0;1;Homem, negro, cabelos pretos e crespos, olhos pretos, rosto oval;1;1;1;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+7;0;1;moreno magro orelhas grandes;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+7;0;1;Moreno, narinas afinadas, boca fina, cabelo cortado em forma de V na frente e pequeno na parte de cima, olhos puxados, queixo afinado, magro.;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0
+7;0;1;negro, cabelo quase careca, estrabismo leve, nariz mais arrebitado, boca de biquinho, olhos castanhos, rosto fino, orelhas levemente de abano, queixo fino.;1;0;0;1;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0
+7;0;1;um homem de cor pardo , 1,66 de altura , cabelos pretos , orelhas grandes.;1;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;Adolescente. Cor branca, cabelo e olhos escuros. Sobrancelhas grossas.;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+8;1;0;Braço peludo, pele branca, cabelo e olhos castanho escuro, com sobrancelha, sem barba, jovem menos de 20 anos, camiseta de futebol, homem e baixa estatura;1;0;1;0;0;0;0;0;0;0;0;0;1;0;1;0;0;1;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0
+8;1;0;branco 18 a 19 anos cabelos  castanhos e curtos olhos castanhos;1;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;branco, cabelo castanho, liso e com corte pequeno, nariz arrebitado e médio, orelhas pequenas, boca meio coração, de biquinho, sobrancelha arredondada, pouco cilio, labios finos.;1;1;1;1;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0
+8;1;0;Branco, cabelos escuros, maxilar quadrado, nariz pequeno, sobrancelhas afastadas, boca fina.;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0
+8;1;0;Branco, grandes lábios, rosto alargado, nariz grande, olhos pequenos e fundos.;1;0;0;0;0;0;1;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;Homem branco de aparência jovem, cabelos castanhos curtos de aproximadamente uns 3cm, com duas entradas salientes partindo da testa;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;Homem jovem 16 anos pele branca, cabelo castanho escuro curto;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;Jovem adulto branco, de aparentemente 23 anos de idade. De cabelo curto preto. Magro.;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;Menino adolescente Cabelo e olhos castanhos Pele clara Boca pequena Olhos caídos;0;0;1;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0
+8;1;0;nervoso, suado, timido;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8;1;0;Sobrancelhas bem separadas. Olhos castanhos. Cabelo castanho escuro curto, a franja cai mais no centro da testa, formando um v na testa. Rosto mais quadrado. Queixo tem um furinho no centro. Orelhas são bem rentes ao cabelo. Pele branca.;1;1;1;1;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+8;1;0;um homem tambem na faixa de 18 á 23 anos de cor clara cabelos escuros,acredito que jogador de volei;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+9;0;1;Aparentemente alto e magro. Cabelo castanho, raspado curto, mais curto na lateral. Olhos castanhos. Na parte de cima as orelhas são mais retas. As maçãs do rosto são  pequenas e bem marcadas. Pele negra.;1;1;1;1;1;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1
+9;0;1;Euforico, ofegante;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+9;0;1;"Homem adulto jovem negro
+Cabelo raspado dos lados Nariz grande Boca pequena Ossos da face bem salientados";1;0;1;1;0;0;1;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0
+9;0;1;homem negro com aparência de 25 anos de idade, maçãs do rosto destacadas, aparência atlética, cabelos curtos, nariz no formato de bico de tucano e olhos escuros.;1;0;0;1;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+9;0;1;homem negro, careca, jogador de futebol, com os olhos pequenos e o nariz grande e pontudo;1;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+9;0;1;homem negro, magro, cabelos cortados rente a raiz, olhos fundos e redondos, maçãs do rosto saltadas, boca fina, orelhas pontudas;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;1;0;0;0;0;0;0;1
+9;0;1;homem, negro, ossos bem marcados, olhos fundos, boca retraída, com o nariz pontudo sobre ela. Maçãs do rosto muito marcadas e definidas. Cabelo raspado.;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0;1;1
+9;0;1;negro claro, cabelo raspado, sem barba, olhos bem pra dentro;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0
+9;0;1;Negro, rosto em formato de triângulo invertido, olhos mais afastados do centro da face, nariz largo, cabelo preto curto;1;0;1;1;0;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+9;0;1;Orelhas pontiagudas labios finos pele negra;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+9;0;1;Pessoa com 1,70 mts, negro, magro, com olhos fundos, pouco pelo no corpo e atleta com camiseta branca;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0
+9;0;1;um jogador de futebol, afro, de cabelos curtos dando entrevista em um campo de futebol;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10;0;1;Cabelo e olhos castanhos, pele morena, orelhas de abano, roupa de time de futebol, homem, jovem, rosto alongado, nariz grande, boca carnuda, sem barba e com sobrancelha;0;0;1;0;0;0;0;0;1;0;0;1;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;1;1;0;0;0;0;0
+10;0;1;Homem adulto jovem Pele morena Cabelo e olhos pretos Cabelo bem curtinho;0;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+10;0;1;homem pardo, sobrancelhas finas, testa proeminente, olhos escuros cabelo curto;1;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;1;0;0;0
+10;0;1;Homem, cabelo curto, sobrancelha larga. De cor parda. Olhos escuros, assim como o cabelo.;1;0;1;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+10;0;1;Homem, moreno, cabelo aparado nos lados, boca da cor da pele e lábios medianos, traços mais angulares, masculinos, nariz mais afinado.;0;1;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0
+10;0;1;Jovem jogador de futebol negro de pele clara. Aparenta ter cerca de 23 anos de idade. Cabelo preto curto.;1;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+10;0;1;moreno orelhas pequenas labios em formato de coração;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0
+10;0;1;Pardo, aparenta ser bem jovem . Sobrancelha fina;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+10;0;1;pardo, nariz e boca larga, cabelo curtinho;1;0;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+10;0;1;rapaz quase negro cabelos cortados bem baixo nariz um pouco grande um tanto afinado boca bem desenhada  idade entre 19 e 20 anos;0;1;0;1;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+10;0;1;uma pessoa parda,com corpo de atleta;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+10;0;1;vejo um homem de cor parda , olhos castanhos , cabelo grizalho.;1;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;0;1;Homem de pele negra, com cavanhaque, nariz e orelhas grandes, cabelo por fazer.;1;1;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;0;1;Expressão facial e corporal de raiva e agressividade, aparentava estar;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;0;1;Homem negro com aparência de 30 anos, lábios grossos, cavanhaque, olhos escuros e nariz alargado. Orelha levemente de abano.;1;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0
+11;0;1;Homem negro, traços negroides, risco de expressão na testa;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+11;0;1;Homem, negro, nariz com a ponta arredondada, boca carnuda rosada, cabelo baixo.;1;1;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0
+11;0;1;homem, negro, um pouco de barba;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;0;1;Magro, de cor, com aproximadamente 17 anos, atleta;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
+11;0;1;negro, cabelo raspado, sem barba, franze a sobrancelha quando fala.;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0
+11;0;1;Negro, jovem, cabelo bem curtinho, um pouco de barba no queixo.;1;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;0;1;negro, meio careca, orelhas grandes;1;1;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+11;0;1;Um homem moreno, aparentemente alto, nariz um pouco achatado, possui uma barbicha, fala rápido, movimentando muito os músculos da face.;0;0;0;0;0;0;0;1;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0
